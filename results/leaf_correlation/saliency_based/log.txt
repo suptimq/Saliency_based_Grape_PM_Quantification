@@ -1,0 +1,682 @@
+[2021-12-18 22:49:13,368] - [root] - [INFO] - leaf_correlation.py
+[2021-12-18 22:49:13,368] - [root] - [INFO] - model_type       : VGG
+[2021-12-18 22:49:13,368] - [root] - [INFO] - pretrained       : True
+[2021-12-18 22:49:13,368] - [root] - [INFO] - loading_epoch    : 95
+[2021-12-18 22:49:13,368] - [root] - [INFO] - timestamp        : May10_16-42-59_2021
+[2021-12-18 22:49:13,368] - [root] - [INFO] - outdim           : 2
+[2021-12-18 22:49:13,369] - [root] - [INFO] - cuda             : True
+[2021-12-18 22:49:13,369] - [root] - [INFO] - cuda_id          : 0
+[2021-12-18 22:49:13,369] - [root] - [INFO] - target_class     : 1
+[2021-12-18 22:49:13,369] - [root] - [INFO] - step_size        : 224
+[2021-12-18 22:49:13,369] - [root] - [INFO] - dataset_path     : /media/cornell/Data/tq42/Hyphal_2020/data
+[2021-12-18 22:49:13,369] - [root] - [INFO] - model_path       : /media/cornell/Data/tq42/Hyphal_2020
+[2021-12-18 22:49:13,369] - [root] - [INFO] - platform         : PMRobot
+[2021-12-18 22:49:13,369] - [root] - [INFO] - threshold        : ['0.2']
+[2021-12-18 22:49:13,369] - [root] - [INFO] - group            : saliency_based
+[2021-12-18 22:49:13,369] - [root] - [INFO] - log              : log
+[2021-12-18 22:49:40,533] - [root] - [INFO] - leaf_correlation.py
+[2021-12-18 22:49:40,533] - [root] - [INFO] - model_type       : VGG
+[2021-12-18 22:49:40,533] - [root] - [INFO] - pretrained       : True
+[2021-12-18 22:49:40,533] - [root] - [INFO] - loading_epoch    : 95
+[2021-12-18 22:49:40,533] - [root] - [INFO] - timestamp        : May10_16-42-59_2021
+[2021-12-18 22:49:40,533] - [root] - [INFO] - outdim           : 2
+[2021-12-18 22:49:40,533] - [root] - [INFO] - cuda             : True
+[2021-12-18 22:49:40,533] - [root] - [INFO] - cuda_id          : 0
+[2021-12-18 22:49:40,533] - [root] - [INFO] - target_class     : 1
+[2021-12-18 22:49:40,533] - [root] - [INFO] - step_size        : 224
+[2021-12-18 22:49:40,533] - [root] - [INFO] - dataset_path     : /media/cornell/Data/tq42/Hyphal_2020/data
+[2021-12-18 22:49:40,534] - [root] - [INFO] - model_path       : /media/cornell/Data/tq42/Hyphal_2020
+[2021-12-18 22:49:40,534] - [root] - [INFO] - platform         : PMRobot
+[2021-12-18 22:49:40,534] - [root] - [INFO] - threshold        : ['0.2']
+[2021-12-18 22:49:40,534] - [root] - [INFO] - group            : saliency_based
+[2021-12-18 22:49:40,534] - [root] - [INFO] - log              : log
+[2021-12-18 22:51:37,170] - [root] - [INFO] - leaf_correlation.py
+[2021-12-18 22:51:37,170] - [root] - [INFO] - model_type       : VGG
+[2021-12-18 22:51:37,170] - [root] - [INFO] - pretrained       : True
+[2021-12-18 22:51:37,170] - [root] - [INFO] - loading_epoch    : 95
+[2021-12-18 22:51:37,170] - [root] - [INFO] - timestamp        : May10_16-42-59_2021
+[2021-12-18 22:51:37,170] - [root] - [INFO] - outdim           : 2
+[2021-12-18 22:51:37,170] - [root] - [INFO] - cuda             : True
+[2021-12-18 22:51:37,170] - [root] - [INFO] - cuda_id          : 0
+[2021-12-18 22:51:37,170] - [root] - [INFO] - target_class     : 1
+[2021-12-18 22:51:37,170] - [root] - [INFO] - step_size        : 224
+[2021-12-18 22:51:37,171] - [root] - [INFO] - dataset_path     : /media/cornell/Data/tq42/Hyphal_2020/data
+[2021-12-18 22:51:37,171] - [root] - [INFO] - model_path       : /media/cornell/Data/tq42/Hyphal_2020
+[2021-12-18 22:51:37,171] - [root] - [INFO] - platform         : PMRobot
+[2021-12-18 22:51:37,171] - [root] - [INFO] - threshold        : ['0.2']
+[2021-12-18 22:51:37,171] - [root] - [INFO] - group            : saliency_based
+[2021-12-18 22:51:37,171] - [root] - [INFO] - log              : log
+[2021-12-18 22:51:40,739] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:52:09,304] - [root] - [INFO] - leaf_correlation.py
+[2021-12-18 22:52:09,304] - [root] - [INFO] - model_type       : VGG
+[2021-12-18 22:52:09,304] - [root] - [INFO] - pretrained       : True
+[2021-12-18 22:52:09,304] - [root] - [INFO] - loading_epoch    : 95
+[2021-12-18 22:52:09,304] - [root] - [INFO] - timestamp        : May10_16-42-59_2021
+[2021-12-18 22:52:09,304] - [root] - [INFO] - outdim           : 2
+[2021-12-18 22:52:09,304] - [root] - [INFO] - cuda             : True
+[2021-12-18 22:52:09,304] - [root] - [INFO] - cuda_id          : 0
+[2021-12-18 22:52:09,304] - [root] - [INFO] - target_class     : 1
+[2021-12-18 22:52:09,304] - [root] - [INFO] - step_size        : 224
+[2021-12-18 22:52:09,304] - [root] - [INFO] - dataset_path     : /media/cornell/Data/tq42/Hyphal_2020/data
+[2021-12-18 22:52:09,304] - [root] - [INFO] - model_path       : /media/cornell/Data/tq42/Hyphal_2020
+[2021-12-18 22:52:09,304] - [root] - [INFO] - platform         : PMRobot
+[2021-12-18 22:52:09,304] - [root] - [INFO] - threshold        : ['0.2']
+[2021-12-18 22:52:09,304] - [root] - [INFO] - group            : saliency_based
+[2021-12-18 22:52:09,304] - [root] - [INFO] - log              : log
+[2021-12-18 22:52:12,908] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:52:12,908] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 1-4508001.tif
+[2021-12-18 22:52:28,258] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:52:33,444] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 22:52:34,287] - [root] - [INFO] - Analysis finished: 0m 21s
+[2021-12-18 22:52:34,287] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:52:34,287] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:52:34,287] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 2-4508002.tif
+[2021-12-18 22:52:49,442] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:52:54,664] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 22:52:55,443] - [root] - [INFO] - Analysis finished: 0m 21s
+[2021-12-18 22:52:55,443] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:52:55,443] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:52:55,443] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 3-4508003.tif
+[2021-12-18 22:53:10,711] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:53:15,883] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 22:53:16,707] - [root] - [INFO] - Analysis finished: 0m 21s
+[2021-12-18 22:53:16,707] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:53:16,707] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:53:16,707] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 4-4508004.tif
+[2021-12-18 22:53:31,906] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:53:36,685] - [root] - [INFO] - Finished crop and inference: 0m 19s
+[2021-12-18 22:53:37,483] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 22:53:37,483] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:53:37,483] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:53:37,483] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 5-4508005.tif
+[2021-12-18 22:53:52,690] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:54:01,176] - [root] - [INFO] - Finished crop and inference: 0m 23s
+[2021-12-18 22:54:01,971] - [root] - [INFO] - Analysis finished: 0m 24s
+[2021-12-18 22:54:01,971] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:54:01,971] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:54:01,971] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 6-4508006.tif
+[2021-12-18 22:54:17,170] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:54:36,782] - [root] - [INFO] - Finished crop and inference: 0m 34s
+[2021-12-18 22:54:37,623] - [root] - [INFO] - Analysis finished: 0m 35s
+[2021-12-18 22:54:37,624] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:54:37,624] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:54:37,624] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 7-4508007.tif
+[2021-12-18 22:54:52,787] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:54:59,809] - [root] - [INFO] - Finished crop and inference: 0m 22s
+[2021-12-18 22:55:00,585] - [root] - [INFO] - Analysis finished: 0m 22s
+[2021-12-18 22:55:00,585] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:55:00,585] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:55:00,585] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 8-4508008.tif
+[2021-12-18 22:55:15,669] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:55:20,552] - [root] - [INFO] - Finished crop and inference: 0m 19s
+[2021-12-18 22:55:21,357] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 22:55:21,357] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:55:21,357] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:55:21,357] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 9-4508009.tif
+[2021-12-18 22:55:36,503] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:55:41,584] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 22:55:42,363] - [root] - [INFO] - Analysis finished: 0m 21s
+[2021-12-18 22:55:42,363] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:55:42,364] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:55:42,364] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 10-4508010.tif
+[2021-12-18 22:55:57,536] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:56:02,433] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 22:56:03,215] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 22:56:03,215] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:56:03,215] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:56:03,215] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 11-4508011.tif
+[2021-12-18 22:56:18,340] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:56:24,789] - [root] - [INFO] - Finished crop and inference: 0m 21s
+[2021-12-18 22:56:25,570] - [root] - [INFO] - Analysis finished: 0m 22s
+[2021-12-18 22:56:25,570] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:56:25,570] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:56:25,570] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 12-4508012.tif
+[2021-12-18 22:56:40,677] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:56:45,018] - [root] - [INFO] - Finished crop and inference: 0m 19s
+[2021-12-18 22:56:45,823] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 22:56:45,823] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:56:45,824] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:56:45,837] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 13-4508013.tif
+[2021-12-18 22:57:00,994] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:57:05,450] - [root] - [INFO] - Finished crop and inference: 0m 19s
+[2021-12-18 22:57:06,236] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 22:57:06,236] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:57:06,236] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:57:06,236] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 14-4508015.tif
+[2021-12-18 22:57:21,332] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:57:26,079] - [root] - [INFO] - Finished crop and inference: 0m 19s
+[2021-12-18 22:57:26,855] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 22:57:26,855] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:57:26,856] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:57:26,869] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 15-4508016.tif
+[2021-12-18 22:57:42,072] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:57:49,189] - [root] - [INFO] - Finished crop and inference: 0m 22s
+[2021-12-18 22:57:49,970] - [root] - [INFO] - Analysis finished: 0m 23s
+[2021-12-18 22:57:49,970] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:57:49,970] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:57:49,970] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 16-4508018.tif
+[2021-12-18 22:58:05,099] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:58:13,778] - [root] - [INFO] - Finished crop and inference: 0m 23s
+[2021-12-18 22:58:14,556] - [root] - [INFO] - Analysis finished: 0m 24s
+[2021-12-18 22:58:14,556] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:58:14,556] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:58:14,556] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 17-4508019.tif
+[2021-12-18 22:58:29,638] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:58:40,951] - [root] - [INFO] - Finished crop and inference: 0m 26s
+[2021-12-18 22:58:41,744] - [root] - [INFO] - Analysis finished: 0m 27s
+[2021-12-18 22:58:41,744] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:58:41,744] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:58:41,744] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 18-4508021.tif
+[2021-12-18 22:58:56,769] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:59:07,867] - [root] - [INFO] - Finished crop and inference: 0m 26s
+[2021-12-18 22:59:08,670] - [root] - [INFO] - Analysis finished: 0m 26s
+[2021-12-18 22:59:08,670] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:59:08,670] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:59:08,670] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 19-4508022.tif
+[2021-12-18 22:59:23,799] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 22:59:45,484] - [root] - [INFO] - Finished crop and inference: 0m 36s
+[2021-12-18 22:59:46,340] - [root] - [INFO] - Analysis finished: 0m 37s
+[2021-12-18 22:59:46,340] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:59:46,340] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 22:59:46,340] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 20-4508023.tif
+[2021-12-18 23:00:01,563] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:00:24,949] - [root] - [INFO] - Finished crop and inference: 0m 38s
+[2021-12-18 23:00:25,802] - [root] - [INFO] - Analysis finished: 0m 39s
+[2021-12-18 23:00:25,802] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:00:25,802] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:00:25,802] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 21-4508024.tif
+[2021-12-18 23:00:41,007] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:00:53,786] - [root] - [INFO] - Finished crop and inference: 0m 27s
+[2021-12-18 23:00:54,581] - [root] - [INFO] - Analysis finished: 0m 28s
+[2021-12-18 23:00:54,581] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:00:54,581] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:00:54,581] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 22-4508025.tif
+[2021-12-18 23:01:09,770] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:01:17,906] - [root] - [INFO] - Finished crop and inference: 0m 23s
+[2021-12-18 23:01:18,686] - [root] - [INFO] - Analysis finished: 0m 24s
+[2021-12-18 23:01:18,686] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:01:18,686] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:01:18,686] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 23-4508026.tif
+[2021-12-18 23:01:33,841] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:01:38,232] - [root] - [INFO] - Finished crop and inference: 0m 19s
+[2021-12-18 23:01:39,016] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 23:01:39,016] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:01:39,016] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:01:39,029] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 24-4508027.tif
+[2021-12-18 23:01:54,171] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:02:11,365] - [root] - [INFO] - Finished crop and inference: 0m 32s
+[2021-12-18 23:02:12,181] - [root] - [INFO] - Analysis finished: 0m 33s
+[2021-12-18 23:02:12,181] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:02:12,181] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:02:12,181] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 25-4508030.tif
+[2021-12-18 23:02:27,367] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:02:33,636] - [root] - [INFO] - Finished crop and inference: 0m 21s
+[2021-12-18 23:02:34,430] - [root] - [INFO] - Analysis finished: 0m 22s
+[2021-12-18 23:02:34,430] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:02:34,430] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:02:34,430] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 26-4508032.tif
+[2021-12-18 23:02:49,564] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:03:01,587] - [root] - [INFO] - Finished crop and inference: 0m 27s
+[2021-12-18 23:03:02,399] - [root] - [INFO] - Analysis finished: 0m 27s
+[2021-12-18 23:03:02,399] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:03:02,399] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:03:02,399] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 27-4508033.tif
+[2021-12-18 23:03:17,559] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:03:43,844] - [root] - [INFO] - Finished crop and inference: 0m 41s
+[2021-12-18 23:03:44,708] - [root] - [INFO] - Analysis finished: 0m 42s
+[2021-12-18 23:03:44,708] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:03:44,708] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:03:44,708] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 28-4508034.tif
+[2021-12-18 23:03:59,828] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:04:06,868] - [root] - [INFO] - Finished crop and inference: 0m 22s
+[2021-12-18 23:04:07,650] - [root] - [INFO] - Analysis finished: 0m 22s
+[2021-12-18 23:04:07,650] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:04:07,650] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:04:07,650] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 29-4508035.tif
+[2021-12-18 23:04:22,877] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:04:40,213] - [root] - [INFO] - Finished crop and inference: 0m 32s
+[2021-12-18 23:04:41,039] - [root] - [INFO] - Analysis finished: 0m 33s
+[2021-12-18 23:04:41,039] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:04:41,039] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:04:41,039] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 30-4508036.tif
+[2021-12-18 23:04:56,138] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:05:03,367] - [root] - [INFO] - Finished crop and inference: 0m 22s
+[2021-12-18 23:05:04,142] - [root] - [INFO] - Analysis finished: 0m 23s
+[2021-12-18 23:05:04,142] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:05:04,142] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:05:04,142] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 31-4508037.tif
+[2021-12-18 23:05:19,322] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:05:26,562] - [root] - [INFO] - Finished crop and inference: 0m 22s
+[2021-12-18 23:05:27,342] - [root] - [INFO] - Analysis finished: 0m 23s
+[2021-12-18 23:05:27,342] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:05:27,342] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:05:27,342] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 32-4508038.tif
+[2021-12-18 23:05:42,378] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:05:51,294] - [root] - [INFO] - Finished crop and inference: 0m 23s
+[2021-12-18 23:05:52,076] - [root] - [INFO] - Analysis finished: 0m 24s
+[2021-12-18 23:05:52,076] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:05:52,076] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:05:52,076] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 33-4508039.tif
+[2021-12-18 23:06:07,168] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:06:19,083] - [root] - [INFO] - Finished crop and inference: 0m 27s
+[2021-12-18 23:06:19,889] - [root] - [INFO] - Analysis finished: 0m 27s
+[2021-12-18 23:06:19,889] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:06:19,889] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:06:19,889] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 34-4508040.tif
+[2021-12-18 23:06:35,106] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:06:54,366] - [root] - [INFO] - Finished crop and inference: 0m 34s
+[2021-12-18 23:06:55,206] - [root] - [INFO] - Analysis finished: 0m 35s
+[2021-12-18 23:06:55,206] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:06:55,206] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:06:55,206] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 35-4508041.tif
+[2021-12-18 23:07:10,421] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:07:15,780] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 23:07:16,556] - [root] - [INFO] - Analysis finished: 0m 21s
+[2021-12-18 23:07:16,556] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:07:16,556] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:07:16,556] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 36-4508042.tif
+[2021-12-18 23:07:31,678] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:07:37,082] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 23:07:37,859] - [root] - [INFO] - Analysis finished: 0m 21s
+[2021-12-18 23:07:37,859] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:07:37,860] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:07:37,860] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 37-4508043.tif
+[2021-12-18 23:07:52,963] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:08:08,179] - [root] - [INFO] - Finished crop and inference: 0m 30s
+[2021-12-18 23:08:08,983] - [root] - [INFO] - Analysis finished: 0m 31s
+[2021-12-18 23:08:08,984] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:08:08,984] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:08:08,984] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 38-4508044.tif
+[2021-12-18 23:08:24,070] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:08:39,345] - [root] - [INFO] - Finished crop and inference: 0m 30s
+[2021-12-18 23:08:40,160] - [root] - [INFO] - Analysis finished: 0m 31s
+[2021-12-18 23:08:40,161] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:08:40,161] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:08:40,161] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 39-4508045.tif
+[2021-12-18 23:08:55,322] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:09:12,363] - [root] - [INFO] - Finished crop and inference: 0m 32s
+[2021-12-18 23:09:13,167] - [root] - [INFO] - Analysis finished: 0m 33s
+[2021-12-18 23:09:13,167] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:09:13,167] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:09:13,167] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 40-4508046.tif
+[2021-12-18 23:09:28,316] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:09:42,406] - [root] - [INFO] - Finished crop and inference: 0m 29s
+[2021-12-18 23:09:43,202] - [root] - [INFO] - Analysis finished: 0m 30s
+[2021-12-18 23:09:43,202] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:09:43,202] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:09:43,203] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 41-4508047.tif
+[2021-12-18 23:09:58,377] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:10:09,959] - [root] - [INFO] - Finished crop and inference: 0m 26s
+[2021-12-18 23:10:10,748] - [root] - [INFO] - Analysis finished: 0m 27s
+[2021-12-18 23:10:10,748] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:10:10,748] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:10:10,748] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 42-4508048.tif
+[2021-12-18 23:10:25,804] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:10:48,091] - [root] - [INFO] - Finished crop and inference: 0m 37s
+[2021-12-18 23:10:48,951] - [root] - [INFO] - Analysis finished: 0m 38s
+[2021-12-18 23:10:48,951] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:10:48,951] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:10:48,951] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 43-4508049.tif
+[2021-12-18 23:11:04,123] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:11:08,994] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 23:11:09,781] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 23:11:09,781] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:11:09,781] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:11:09,794] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 44-4508050.tif
+[2021-12-18 23:11:24,965] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:11:46,755] - [root] - [INFO] - Finished crop and inference: 0m 36s
+[2021-12-18 23:11:47,617] - [root] - [INFO] - Analysis finished: 0m 37s
+[2021-12-18 23:11:47,617] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:11:47,617] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:11:47,617] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 45-4508051.tif
+[2021-12-18 23:12:02,826] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:12:18,378] - [root] - [INFO] - Finished crop and inference: 0m 30s
+[2021-12-18 23:12:19,199] - [root] - [INFO] - Analysis finished: 0m 31s
+[2021-12-18 23:12:19,199] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:12:19,199] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:12:19,199] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 46-4508052.tif
+[2021-12-18 23:12:34,358] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:12:38,804] - [root] - [INFO] - Finished crop and inference: 0m 19s
+[2021-12-18 23:12:39,595] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 23:12:39,595] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:12:39,595] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:12:39,608] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 47-4508053.tif
+[2021-12-18 23:12:54,777] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:13:06,187] - [root] - [INFO] - Finished crop and inference: 0m 26s
+[2021-12-18 23:13:06,991] - [root] - [INFO] - Analysis finished: 0m 27s
+[2021-12-18 23:13:06,991] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:13:06,991] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:13:06,991] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 48-4508054.tif
+[2021-12-18 23:13:22,060] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:13:34,840] - [root] - [INFO] - Finished crop and inference: 0m 27s
+[2021-12-18 23:13:35,650] - [root] - [INFO] - Analysis finished: 0m 28s
+[2021-12-18 23:13:35,650] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:13:35,650] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:13:35,650] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 49-4508055.tif
+[2021-12-18 23:13:50,782] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:13:57,936] - [root] - [INFO] - Finished crop and inference: 0m 22s
+[2021-12-18 23:13:58,715] - [root] - [INFO] - Analysis finished: 0m 23s
+[2021-12-18 23:13:58,715] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:13:58,715] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:13:58,715] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 50-4508056.tif
+[2021-12-18 23:14:13,772] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:14:37,697] - [root] - [INFO] - Finished crop and inference: 0m 38s
+[2021-12-18 23:14:38,560] - [root] - [INFO] - Analysis finished: 0m 39s
+[2021-12-18 23:14:38,560] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:14:38,560] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:14:38,560] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 51-4508057.tif
+[2021-12-18 23:14:53,731] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:15:07,536] - [root] - [INFO] - Finished crop and inference: 0m 28s
+[2021-12-18 23:15:08,333] - [root] - [INFO] - Analysis finished: 0m 29s
+[2021-12-18 23:15:08,333] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:15:08,334] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:15:08,334] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 52-4508058.tif
+[2021-12-18 23:15:23,542] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:15:48,972] - [root] - [INFO] - Finished crop and inference: 0m 40s
+[2021-12-18 23:15:49,844] - [root] - [INFO] - Analysis finished: 0m 41s
+[2021-12-18 23:15:49,844] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:15:49,844] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:15:49,844] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 53-4508059.tif
+[2021-12-18 23:16:05,046] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:16:23,986] - [root] - [INFO] - Finished crop and inference: 0m 34s
+[2021-12-18 23:16:24,827] - [root] - [INFO] - Analysis finished: 0m 34s
+[2021-12-18 23:16:24,827] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:16:24,827] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:16:24,827] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 54-4508060.tif
+[2021-12-18 23:16:40,056] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:16:46,536] - [root] - [INFO] - Finished crop and inference: 0m 21s
+[2021-12-18 23:16:47,331] - [root] - [INFO] - Analysis finished: 0m 22s
+[2021-12-18 23:16:47,331] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:16:47,332] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:16:47,332] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 55-4508061.tif
+[2021-12-18 23:17:02,498] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:17:10,782] - [root] - [INFO] - Finished crop and inference: 0m 23s
+[2021-12-18 23:17:11,568] - [root] - [INFO] - Analysis finished: 0m 24s
+[2021-12-18 23:17:11,568] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:17:11,568] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:17:11,568] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 56-4508062.tif
+[2021-12-18 23:17:26,695] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:17:32,412] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 23:17:33,189] - [root] - [INFO] - Analysis finished: 0m 21s
+[2021-12-18 23:17:33,189] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:17:33,189] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:17:33,189] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 57-4508065.tif
+[2021-12-18 23:17:48,374] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:17:58,312] - [root] - [INFO] - Finished crop and inference: 0m 25s
+[2021-12-18 23:17:59,101] - [root] - [INFO] - Analysis finished: 0m 25s
+[2021-12-18 23:17:59,101] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:17:59,101] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:17:59,101] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 58-4508066.tif
+[2021-12-18 23:18:14,213] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:18:25,274] - [root] - [INFO] - Finished crop and inference: 0m 26s
+[2021-12-18 23:18:26,079] - [root] - [INFO] - Analysis finished: 0m 26s
+[2021-12-18 23:18:26,079] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:18:26,079] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:18:26,079] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 59-4508067.tif
+[2021-12-18 23:18:41,126] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:18:46,147] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 23:18:46,945] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 23:18:46,945] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:18:46,945] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:18:46,945] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 60-4508068.tif
+[2021-12-18 23:19:02,033] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:19:09,553] - [root] - [INFO] - Finished crop and inference: 0m 22s
+[2021-12-18 23:19:10,332] - [root] - [INFO] - Analysis finished: 0m 23s
+[2021-12-18 23:19:10,332] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:19:10,332] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:19:10,332] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 61-4508070.tif
+[2021-12-18 23:19:25,467] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:19:47,889] - [root] - [INFO] - Finished crop and inference: 0m 37s
+[2021-12-18 23:19:48,731] - [root] - [INFO] - Analysis finished: 0m 38s
+[2021-12-18 23:19:48,731] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:19:48,731] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:19:48,731] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 62-4508071.tif
+[2021-12-18 23:20:03,773] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:20:25,142] - [root] - [INFO] - Finished crop and inference: 0m 36s
+[2021-12-18 23:20:25,968] - [root] - [INFO] - Analysis finished: 0m 37s
+[2021-12-18 23:20:25,968] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:20:25,968] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:20:25,968] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 63-4508073.tif
+[2021-12-18 23:20:40,994] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:20:59,713] - [root] - [INFO] - Finished crop and inference: 0m 33s
+[2021-12-18 23:21:00,534] - [root] - [INFO] - Analysis finished: 0m 34s
+[2021-12-18 23:21:00,534] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:21:00,535] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:21:00,535] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 64-4508074.tif
+[2021-12-18 23:21:15,601] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:21:28,388] - [root] - [INFO] - Finished crop and inference: 0m 27s
+[2021-12-18 23:21:29,175] - [root] - [INFO] - Analysis finished: 0m 28s
+[2021-12-18 23:21:29,175] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:21:29,175] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:21:29,175] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 65-4508075.tif
+[2021-12-18 23:21:44,175] - [root] - [INFO] - Finished loading mask: 0m 14s
+[2021-12-18 23:22:02,830] - [root] - [INFO] - Finished crop and inference: 0m 33s
+[2021-12-18 23:22:03,677] - [root] - [INFO] - Analysis finished: 0m 34s
+[2021-12-18 23:22:03,677] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:22:03,677] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:22:03,677] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 66-4508076.tif
+[2021-12-18 23:22:18,834] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:22:30,024] - [root] - [INFO] - Finished crop and inference: 0m 26s
+[2021-12-18 23:22:30,806] - [root] - [INFO] - Analysis finished: 0m 27s
+[2021-12-18 23:22:30,806] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:22:30,806] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:22:30,806] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 67-4509001.tif
+[2021-12-18 23:22:45,922] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:22:53,285] - [root] - [INFO] - Finished crop and inference: 0m 22s
+[2021-12-18 23:22:54,070] - [root] - [INFO] - Analysis finished: 0m 23s
+[2021-12-18 23:22:54,070] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:22:54,070] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:22:54,070] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 68-4509002.tif
+[2021-12-18 23:23:09,139] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:23:16,974] - [root] - [INFO] - Finished crop and inference: 0m 22s
+[2021-12-18 23:23:17,751] - [root] - [INFO] - Analysis finished: 0m 23s
+[2021-12-18 23:23:17,751] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:23:17,751] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:23:17,752] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 69-4509003.tif
+[2021-12-18 23:23:32,845] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:23:43,729] - [root] - [INFO] - Finished crop and inference: 0m 25s
+[2021-12-18 23:23:44,515] - [root] - [INFO] - Analysis finished: 0m 26s
+[2021-12-18 23:23:44,515] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:23:44,516] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:23:44,516] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 70-4509004.tif
+[2021-12-18 23:23:59,552] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:24:15,611] - [root] - [INFO] - Finished crop and inference: 0m 31s
+[2021-12-18 23:24:16,441] - [root] - [INFO] - Analysis finished: 0m 31s
+[2021-12-18 23:24:16,441] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:24:16,441] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:24:16,441] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 71-4509005.tif
+[2021-12-18 23:24:31,702] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:24:34,302] - [root] - [INFO] - Finished crop and inference: 0m 17s
+[2021-12-18 23:24:35,155] - [root] - [INFO] - Analysis finished: 0m 18s
+[2021-12-18 23:24:35,156] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:24:35,156] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:24:35,156] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 72-4509006.tif
+[2021-12-18 23:24:50,187] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:24:57,260] - [root] - [INFO] - Finished crop and inference: 0m 22s
+[2021-12-18 23:24:58,059] - [root] - [INFO] - Analysis finished: 0m 22s
+[2021-12-18 23:24:58,059] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:24:58,059] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:24:58,059] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 73-4509007.tif
+[2021-12-18 23:25:13,203] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:25:30,127] - [root] - [INFO] - Finished crop and inference: 0m 32s
+[2021-12-18 23:25:30,934] - [root] - [INFO] - Analysis finished: 0m 32s
+[2021-12-18 23:25:30,934] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:25:30,934] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:25:30,934] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 74-4509009.tif
+[2021-12-18 23:25:46,040] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:25:50,259] - [root] - [INFO] - Finished crop and inference: 0m 19s
+[2021-12-18 23:25:51,041] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 23:25:51,041] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:25:51,041] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:25:51,041] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 75-4509011.tif
+[2021-12-18 23:26:06,193] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:26:17,199] - [root] - [INFO] - Finished crop and inference: 0m 26s
+[2021-12-18 23:26:17,989] - [root] - [INFO] - Analysis finished: 0m 26s
+[2021-12-18 23:26:17,989] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:26:17,989] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:26:17,989] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 76-4509012.tif
+[2021-12-18 23:26:33,025] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:26:41,898] - [root] - [INFO] - Finished crop and inference: 0m 23s
+[2021-12-18 23:26:42,677] - [root] - [INFO] - Analysis finished: 0m 24s
+[2021-12-18 23:26:42,677] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:26:42,677] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:26:42,677] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 77-4509013.tif
+[2021-12-18 23:26:57,718] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:27:03,558] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 23:27:04,333] - [root] - [INFO] - Analysis finished: 0m 21s
+[2021-12-18 23:27:04,333] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:27:04,333] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:27:04,333] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 78-4509014.tif
+[2021-12-18 23:27:19,416] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:27:29,265] - [root] - [INFO] - Finished crop and inference: 0m 24s
+[2021-12-18 23:27:30,052] - [root] - [INFO] - Analysis finished: 0m 25s
+[2021-12-18 23:27:30,052] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:27:30,052] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:27:30,052] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 79-4509015.tif
+[2021-12-18 23:27:45,229] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:27:57,053] - [root] - [INFO] - Finished crop and inference: 0m 27s
+[2021-12-18 23:27:57,841] - [root] - [INFO] - Analysis finished: 0m 27s
+[2021-12-18 23:27:57,841] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:27:57,841] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:27:57,842] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 80-4509016.tif
+[2021-12-18 23:28:13,017] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:28:15,109] - [root] - [INFO] - Finished crop and inference: 0m 17s
+[2021-12-18 23:28:15,957] - [root] - [INFO] - Analysis finished: 0m 18s
+[2021-12-18 23:28:15,957] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:28:15,957] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:28:15,957] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 81-4509018.tif
+[2021-12-18 23:28:30,988] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:28:37,366] - [root] - [INFO] - Finished crop and inference: 0m 21s
+[2021-12-18 23:28:38,147] - [root] - [INFO] - Analysis finished: 0m 22s
+[2021-12-18 23:28:38,147] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:28:38,147] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:28:38,147] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 82-4509019.tif
+[2021-12-18 23:28:53,279] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:28:58,171] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 23:28:58,973] - [root] - [INFO] - Analysis finished: 0m 20s
+[2021-12-18 23:28:58,973] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:28:58,973] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:28:58,987] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 83-4509020.tif
+[2021-12-18 23:29:14,011] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:29:23,184] - [root] - [INFO] - Finished crop and inference: 0m 24s
+[2021-12-18 23:29:23,965] - [root] - [INFO] - Analysis finished: 0m 24s
+[2021-12-18 23:29:23,965] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:29:23,966] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:29:23,966] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 84-4509021.tif
+[2021-12-18 23:29:39,001] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:29:54,730] - [root] - [INFO] - Finished crop and inference: 0m 30s
+[2021-12-18 23:29:55,534] - [root] - [INFO] - Analysis finished: 0m 31s
+[2021-12-18 23:29:55,534] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:29:55,534] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:29:55,534] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 85-4509022.tif
+[2021-12-18 23:30:10,620] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:30:19,457] - [root] - [INFO] - Finished crop and inference: 0m 23s
+[2021-12-18 23:30:20,256] - [root] - [INFO] - Analysis finished: 0m 24s
+[2021-12-18 23:30:20,256] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:30:20,256] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:30:20,256] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 86-4509023.tif
+[2021-12-18 23:30:35,295] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:30:45,849] - [root] - [INFO] - Finished crop and inference: 0m 25s
+[2021-12-18 23:30:46,628] - [root] - [INFO] - Analysis finished: 0m 26s
+[2021-12-18 23:30:46,629] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:30:46,629] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:30:46,629] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 87-4509024.tif
+[2021-12-18 23:31:01,765] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:31:19,822] - [root] - [INFO] - Finished crop and inference: 0m 33s
+[2021-12-18 23:31:20,637] - [root] - [INFO] - Analysis finished: 0m 34s
+[2021-12-18 23:31:20,637] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:31:20,637] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:31:20,637] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 88-4509025.tif
+[2021-12-18 23:31:35,687] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:31:47,775] - [root] - [INFO] - Finished crop and inference: 0m 27s
+[2021-12-18 23:31:48,579] - [root] - [INFO] - Analysis finished: 0m 27s
+[2021-12-18 23:31:48,579] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:31:48,579] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:31:48,579] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 89-4509026.tif
+[2021-12-18 23:32:03,643] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:32:09,549] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 23:32:10,325] - [root] - [INFO] - Analysis finished: 0m 21s
+[2021-12-18 23:32:10,326] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:32:10,326] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:32:10,326] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 90-4509027.tif
+[2021-12-18 23:32:25,396] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:32:30,974] - [root] - [INFO] - Finished crop and inference: 0m 20s
+[2021-12-18 23:32:31,749] - [root] - [INFO] - Analysis finished: 0m 21s
+[2021-12-18 23:32:31,749] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:32:31,749] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:32:31,749] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 91-4509028.tif
+[2021-12-18 23:32:46,879] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:32:56,121] - [root] - [INFO] - Finished crop and inference: 0m 24s
+[2021-12-18 23:32:56,899] - [root] - [INFO] - Analysis finished: 0m 25s
+[2021-12-18 23:32:56,899] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:32:56,899] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:32:56,900] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 92-4509029.tif
+[2021-12-18 23:33:12,046] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:33:32,000] - [root] - [INFO] - Finished crop and inference: 0m 35s
+[2021-12-18 23:33:32,841] - [root] - [INFO] - Analysis finished: 0m 35s
+[2021-12-18 23:33:32,842] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:33:32,842] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:33:32,842] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 93-4509030.tif
+[2021-12-18 23:33:47,994] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:34:13,607] - [root] - [INFO] - Finished crop and inference: 0m 40s
+[2021-12-18 23:34:14,456] - [root] - [INFO] - Analysis finished: 0m 41s
+[2021-12-18 23:34:14,456] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:34:14,456] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:34:14,457] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 94-4509032.tif
+[2021-12-18 23:34:29,508] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:34:39,127] - [root] - [INFO] - Finished crop and inference: 0m 24s
+[2021-12-18 23:34:39,909] - [root] - [INFO] - Analysis finished: 0m 25s
+[2021-12-18 23:34:39,909] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:34:39,910] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:34:39,910] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 95-4509034.tif
+[2021-12-18 23:34:54,992] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:35:05,433] - [root] - [INFO] - Finished crop and inference: 0m 25s
+[2021-12-18 23:35:06,235] - [root] - [INFO] - Analysis finished: 0m 26s
+[2021-12-18 23:35:06,235] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:35:06,235] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:35:06,235] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 96-4509035.tif
+[2021-12-18 23:35:21,460] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:35:35,161] - [root] - [INFO] - Finished crop and inference: 0m 28s
+[2021-12-18 23:35:35,973] - [root] - [INFO] - Analysis finished: 0m 29s
+[2021-12-18 23:35:35,973] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:35:35,973] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:35:35,973] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 97-4509038.tif
+[2021-12-18 23:35:51,160] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:35:59,756] - [root] - [INFO] - Finished crop and inference: 0m 23s
+[2021-12-18 23:36:00,561] - [root] - [INFO] - Analysis finished: 0m 24s
+[2021-12-18 23:36:00,561] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:36:00,561] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:36:00,561] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 98-4509039.tif
+[2021-12-18 23:36:15,783] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:36:22,133] - [root] - [INFO] - Finished crop and inference: 0m 21s
+[2021-12-18 23:36:22,909] - [root] - [INFO] - Analysis finished: 0m 22s
+[2021-12-18 23:36:22,910] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:36:22,910] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:36:22,910] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 99-4509040.tif
+[2021-12-18 23:36:38,069] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:36:44,878] - [root] - [INFO] - Finished crop and inference: 0m 21s
+[2021-12-18 23:36:45,662] - [root] - [INFO] - Analysis finished: 0m 22s
+[2021-12-18 23:36:45,662] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:36:45,662] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:36:45,662] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 100-4509041.tif
+[2021-12-18 23:37:00,766] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:37:13,417] - [root] - [INFO] - Finished crop and inference: 0m 27s
+[2021-12-18 23:37:14,201] - [root] - [INFO] - Analysis finished: 0m 28s
+[2021-12-18 23:37:14,202] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:37:14,202] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:37:14,202] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 268-Thompson_Seedless.tif
+[2021-12-18 23:37:29,433] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:37:59,470] - [root] - [INFO] - Finished crop and inference: 0m 45s
+[2021-12-18 23:38:00,425] - [root] - [INFO] - Analysis finished: 0m 46s
+[2021-12-18 23:38:00,426] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:38:00,426] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:38:00,426] - [root] - [INFO] - Processing 07-08-19_6dpi tray1 269-Ren7.tif
+[2021-12-18 23:38:15,785] - [root] - [INFO] - Finished loading mask: 0m 15s
+[2021-12-18 23:38:42,565] - [root] - [INFO] - Finished crop and inference: 0m 42s
+[2021-12-18 23:38:43,437] - [root] - [INFO] - Analysis finished: 0m 43s
+[2021-12-18 23:38:43,437] - [root] - [INFO] - -------------------------------------------
+[2021-12-18 23:38:43,449] - [root] - [INFO] - Saved /home/tq42/BB_analysis_public/results/leaf_correlation/saliency_based/th_0.2/severity_rate.csv
+[2021-12-18 23:38:43,449] - [root] - [INFO] - Average analysis time 27.36
+[2021-12-18 23:38:43,449] - [root] - [INFO] - Average masking time 15.14
+[2021-12-18 23:38:43,449] - [root] - [INFO] - Average crop, classification, saliency time 11.42
+[2021-12-18 23:38:43,449] - [root] - [INFO] - Average severity calculation time 0.80

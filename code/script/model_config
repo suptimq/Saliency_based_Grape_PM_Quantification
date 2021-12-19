@@ -1,0 +1,70 @@
+#### Journal
+VGG16        95    May10_16-42-59_2021     weigthed (1:3)/pretrained
+ResNet50     88    May11_00-29-56_2021     weigthed (1:3)/pretrained
+Inception3   191   May11_05-52-52_2021     weigthed (1:3)/pretrained
+
+VGG16        61    May12_01-02-29_2021     pretrained
+ResNet50     21    May12_08-48-38_2021     pretrained
+Inception3   21    May12_14-06-37_2021     pretrained
+
+DeepLab      98    Apr28_11-44-19_2021     weighted (1:10)/pretrained
+DeepLab      99    May13_00-12-00_2021     weighted (1:10)/pretrained/normalized
+
+
+DeepLab   0   94    Aug14_11-22-25_2021
+DeepLab   1   100   Aug14_12-41-40_2021
+DeepLab   2   85    Aug14_14-00-59_2021
+DeepLab   3   86    Aug14_15-20-04_2021
+DeepLab   4   98    Aug14_16-39-26_2021
+DeepLab   5   100   Aug14_11-22-36_2021
+DeepLab   6   90    Aug14_12-42-37_2021
+DeepLab   7   100   Aug14_14-02-49_2021
+DeepLab   8   96    Aug14_15-22-59_2021
+DeepLab   9   95    Aug14_16-42-52_2021
+
+
+## Classification cross validation
+VGG16        270    1dpi    May11_22-57-52_2021     weigthed (1:3)/pretrained
+VGG16        67     4dpi    May11_15-00-47_2021     weigthed (1:3)/pretrained
+VGG16        47     6dpi    May11_06-50-44_2021     weigthed (1:3)/pretrained
+VGG16        147    9dpi    May11_00-40-16_2021     weigthed (1:3)/pretrained
+
+
+## Classification on the segmentation validation set
+VGG16        58      May18_00-35-55_2021    pretrained
+VGG16        217     May18_12-13-13_2021    weighted (1:3)/pretrained
+VGG16        204     Aug01_13-54-53_2021    weighted (1:3)/pretrained
+
+ResNet50     80      May18_01-22-55_2021    pretrained
+ResNet50     238     May18_13-00-05_2021    weighted (1:3)/pretrained
+
+Inception3   123     May18_01-55-28_2021    pretrained
+Inception3   169     May18_13-32-34_2021    weighted (1:3)/pretrained
+
+VGG     1     148     Aug12_14-50-53_2021    weighted (1:3)/pretrained
+VGG     2     95      Aug12_15-38-53_2021    weighted (1:3)/pretrained
+VGG     3     197     Aug12_16-26-36_2021    weighted (1:3)/pretrained
+VGG     4     150     Aug12_17-14-18_2021    weighted (1:3)/pretrained
+VGG     5     114     Aug12_14-52-00_2021    weighted (1:3)/pretrained
+VGG     6     61      Aug12_15-41-14_2021    weighted (1:3)/pretrained
+VGG     7     234     Aug12_16-28-51_2021    weighted (1:3)/pretrained
+VGG     8     218     Aug12_17-17-42_2021    weighted (1:3)/pretrained
+VGG     9     204     Aug12_18-06-21_2021    weighted (1:3)/pretrained
+
+
+## QTL analysis
+VGG 38 May14_00-21-59_2021
+VGG 36 May14_08-08-33_2021
+VGG 92 May14_15-55-31_2021
+VGG 50 May14_23-42-44_2021
+VGG 241 May15_07-30-10_2021
+VGG 211 May15_15-18-00_2021
+VGG 216 May15_23-06-13_2021
+VGG 166 May16_06-52-25_2021
+VGG 223 May16_14-38-33_2021
+VGG 125 May16_22-24-54_2021
+
+VGG 203 Jun02_17-27-40_2021   9:1
+VGG 125 Jun02_17-28-19_2021   6:4
+VGG 66  Jun03_00-15-31_2021   5:5
+VGG 140 Jun03_01-51-49_2021   7:3
