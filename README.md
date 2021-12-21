@@ -87,3 +87,5 @@ BB_analysis/
 ├── test.py
 └── Ubuntu18-CUDA10-cudnn7.def
 ```
+
+The raw data used in this study can be accessed via this [link](https://figshare.com/s/b0aa141a40fae00aea41).
